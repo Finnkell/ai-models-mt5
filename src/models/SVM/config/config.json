@@ -1,0 +1,14 @@
+{
+    "args": [
+        {
+            "C_svm": 1,
+            "kernel_svm": "linear",
+            "degree": 1
+        },
+        {
+            "C_svm": 1,
+            "kernel_svm": "linear",
+            "degree": 1
+        }
+    ]
+}
